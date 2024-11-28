@@ -15,12 +15,7 @@ The system reads alarm configurations from XML files, triggers alarms based on p
 ## Table of Contents
 1. [Features](#features)
 2. [Prerequisites](#prerequisites)
-3. [Setup Instructions](#setup-instructions)
-4. [Configuration](#configuration)
-5. [API Endpoints](#api-endpoints)
-6. [Design Choices](#design-choices)
-7. [Troubleshooting](#troubleshooting)
-8. [License](#license)
+
 
 ---
 
@@ -35,7 +30,7 @@ The system reads alarm configurations from XML files, triggers alarms based on p
 ## Prerequisites
 
 ### Backend
-- .NET 7 SDK or higher
+- .NET 8 SDK or higher
 - Visual Studio or any preferred IDE
 
 ### Frontend
@@ -44,9 +39,3 @@ The system reads alarm configurations from XML files, triggers alarms based on p
 
 ---
 
-## Setup Instructions
-
-### Backend (ASP.NET Core)
-1. Navigate to the `Backend` directory:
-   ```bash
-   cd Backend
