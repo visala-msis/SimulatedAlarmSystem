@@ -1,0 +1,49 @@
+/* Default Light Mode Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dark-mode header {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+}
+
+.dark-mode footer {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+}
+
+.dark-mode a {
+  color: #bb86fc;
+}
+
+/* Form Controls - Ensure text is visible in dark mode */
+.dark-mode input,
+.dark-mode select,
+.dark-mode textarea,
+.dark-mode label {
+  color: #e0e0e0;
+  background-color: #1f1f1f; /* Optional for input fields */
+  border: 1px solid #444; /* Optional for input fields */
+}
+
+.dark-mode input[type="checkbox"] + label {
+  color: #e0e0e0;
+}
+
+/* Add a hover effect for better accessibility */
+.dark-mode input[type="checkbox"] + label:hover {
+  color: #bb86fc;
+}
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
