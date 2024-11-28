@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/server-app/SimulatedAlarmSystem.Api/bin/Debug/net8.0
+/server-app/SimulatedAlarmSystem.Api/obj
+/server-app/SimulationAlarm.BL/bin/Debug/net8.0
+/server-app/SimulationAlarm.BL/obj
+/server-app/SimulationAlarm.Models/obj
+/server-app/SimulationAlarmSystem.Models/bin/Debug/net8.0
+/server-app/SimulationAlarmSystem.Models/obj
+/.vs

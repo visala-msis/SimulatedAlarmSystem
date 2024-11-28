@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AlarmConfig>
+  <Alarms>
+    <Alarm>
+      <Id>1</Id>
+      <Timestamp>2024-11-25T10:00:00</Timestamp>
+      <Type>Fire</Type>
+      <Status>Active</Status>
+      <Description>Fire alarm triggered in Room 101</Description>
+      <Severity>High</Severity>
+    </Alarm>
+    <Alarm>
+      <Id>2</Id>
+      <Timestamp>2024-11-25T10:05:00</Timestamp>
+      <Type>Intrusion</Type>
+      <Status>Inactive</Status>
+      <Description>Motion detected in the lobby</Description>
+      <Severity>Medium</Severity>
+    </Alarm>
+  </Alarms>
+
+  <Triggers>
+    <Trigger>
+      <Type>Time</Type>
+      <Condition>Every 5 minutes</Condition>
+      <Action>Push to client</Action>
+    </Trigger>
+    <Trigger>
+      <Type>StatusChange</Type>
+      <Condition>Status = "Active"</Condition>
+      <Action>Send Alert</Action>
+    </Trigger>
+  </Triggers>
+</AlarmConfig>

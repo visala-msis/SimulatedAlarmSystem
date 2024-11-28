@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\services\\xmldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\config\\userdata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:config\\userdata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\interfaces\\ialarmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\services\\alarmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\simulatedalarmsystem.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\controllers\\alarmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:controllers\\alarmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\simulatedalarmsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:simulatedalarmsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\config\\alarms.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:config\\alarms.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C3E91-BC9C-4017-9F01-9455099455C1}|..\\SimulationAlarmSystem.Models\\SimulatedAlarmSystem.Models.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarmsystem.models\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C3E91-BC9C-4017-9F01-9455099455C1}|..\\SimulationAlarmSystem.Models\\SimulatedAlarmSystem.Models.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarmsystem.models\\models\\registrationresuslt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C3E91-BC9C-4017-9F01-9455099455C1}|..\\SimulationAlarmSystem.Models\\SimulatedAlarmSystem.Models.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarmsystem.models\\models\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C3E91-BC9C-4017-9F01-9455099455C1}|..\\SimulationAlarmSystem.Models\\SimulatedAlarmSystem.Models.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarmsystem.models\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C3E91-BC9C-4017-9F01-9455099455C1}|..\\SimulationAlarmSystem.Models\\SimulatedAlarmSystem.Models.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarmsystem.models\\models\\alarmconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C3E91-BC9C-4017-9F01-9455099455C1}|..\\SimulationAlarmSystem.Models\\SimulatedAlarmSystem.Models.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarmsystem.models\\models\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A390D0-5921-496E-AC8C-FE32B5D2E587}|..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulationalarm.bl\\interfaces\\ialarmdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\hubs\\alarmhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:hubs\\alarmhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\simulatedalarmsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:simulatedalarmsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|c:\\users\\visal\\onedrive\\documents\\simulatealarmsystem\\server-app\\simulatedalarmsystem.api\\config\\alarmconfig.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7507BB59-8373-4D61-AD15-B88442FDB7C2}|SimulatedAlarmSystem.Api.csproj|solutionrelative:config\\alarmconfig.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\AlarmConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AlarmConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\Trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\Alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Services\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Interfaces\\ITokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ITokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Services\\XmlDataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\XmlDataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Services\\AlarmService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AlarmService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Interfaces\\IXmlDataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IXmlDataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Interfaces\\IAlarmService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IAlarmService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\Services\\UserService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:09:59.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAlarmService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\IAlarmService.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\Interfaces\\IAlarmService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\IAlarmService.cs",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\Interfaces\\IAlarmService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:09:06.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:03:33.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserData.xml",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Config\\UserData.xml",
+              "RelativeDocumentMoniker": "Config\\UserData.xml",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Config\\UserData.xml",
+              "RelativeToolTip": "Config\\UserData.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-27T11:32:31.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:24:10.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlarmService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Services\\AlarmService.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\Services\\AlarmService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Services\\AlarmService.cs",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\Services\\AlarmService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:57:58.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XmlDataService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Services\\XmlDataService.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\Services\\XmlDataService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Services\\XmlDataService.cs",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\Services\\XmlDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:19:33.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Alarms.xml",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Config\\Alarms.xml",
+              "RelativeDocumentMoniker": "Config\\Alarms.xml",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Config\\Alarms.xml",
+              "RelativeToolTip": "Config\\Alarms.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-26T02:27:12.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:29:07.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:51:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimulatedAlarmSystem.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\SimulatedAlarmSystem.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T14:36:44.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlarmController.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Controllers\\AlarmController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlarmController.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Controllers\\AlarmController.cs",
+              "RelativeToolTip": "Controllers\\AlarmController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:25:48.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarmSystem.Models\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\User.cs",
+              "RelativeToolTip": "..\\SimulationAlarmSystem.Models\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:34:44.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimulatedAlarmSystem.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\SimulatedAlarmSystem.Api.csproj",
+              "RelativeDocumentMoniker": "SimulatedAlarmSystem.Api.csproj",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\SimulatedAlarmSystem.Api.csproj",
+              "RelativeToolTip": "SimulatedAlarmSystem.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T02:12:44.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationResuslt.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\RegistrationResuslt.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarmSystem.Models\\Models\\RegistrationResuslt.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\RegistrationResuslt.cs",
+              "RelativeToolTip": "..\\SimulationAlarmSystem.Models\\Models\\RegistrationResuslt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:06:04.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Services\\TokenService.cs",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:42:11.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:35:27.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\Trigger.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarmSystem.Models\\Models\\Trigger.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\Trigger.cs",
+              "RelativeToolTip": "..\\SimulationAlarmSystem.Models\\Models\\Trigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:50:43.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarmSystem.Models\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "..\\SimulationAlarmSystem.Models\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:07:57.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AlarmConfig.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\AlarmConfig.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarmSystem.Models\\Models\\AlarmConfig.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\AlarmConfig.cs",
+              "RelativeToolTip": "..\\SimulationAlarmSystem.Models\\Models\\AlarmConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:07:38.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\Alarm.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarmSystem.Models\\Models\\Alarm.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarmSystem.Models\\Models\\Alarm.cs",
+              "RelativeToolTip": "..\\SimulationAlarmSystem.Models\\Models\\Alarm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:06:42.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAlarmDataService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\IAlarmDataService.cs",
+              "RelativeDocumentMoniker": "..\\SimulationAlarm.BL\\Interfaces\\IAlarmDataService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulationAlarm.BL\\Interfaces\\IAlarmDataService.cs",
+              "RelativeToolTip": "..\\SimulationAlarm.BL\\Interfaces\\IAlarmDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:04:23.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AlarmHub.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Hubs\\AlarmHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\AlarmHub.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Hubs\\AlarmHub.cs",
+              "RelativeToolTip": "Hubs\\AlarmHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:30:03.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:41:30.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T02:18:43.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SimulatedAlarmSystem.Api",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\SimulatedAlarmSystem.Api.csproj",
+              "RelativeDocumentMoniker": "SimulatedAlarmSystem.Api.csproj",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\SimulatedAlarmSystem.Api.csproj",
+              "RelativeToolTip": "SimulatedAlarmSystem.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T17:28:43.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Interfaces\\ITokenService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:15:38.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:15:58.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Models\\JwtSettings.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:23:05.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T05:00:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AlarmConfig.xml",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Config\\AlarmConfig.xml",
+              "RelativeDocumentMoniker": "Config\\AlarmConfig.xml",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Config\\AlarmConfig.xml",
+              "RelativeToolTip": "Config\\AlarmConfig.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-26T01:57:35.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AlarmConfig.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\AlarmConfig.cs",
+              "RelativeDocumentMoniker": "Models\\AlarmConfig.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\AlarmConfig.cs",
+              "RelativeToolTip": "Models\\AlarmConfig.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:55:53.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\Trigger.cs",
+              "RelativeDocumentMoniker": "Models\\Trigger.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\Trigger.cs",
+              "RelativeToolTip": "Models\\Trigger.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:55:26.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "XmlDataService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Services\\XmlDataService.cs",
+              "RelativeDocumentMoniker": "Services\\XmlDataService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Services\\XmlDataService.cs",
+              "RelativeToolTip": "Services\\XmlDataService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:50:48.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AlarmService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Services\\AlarmService.cs",
+              "RelativeDocumentMoniker": "Services\\AlarmService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Services\\AlarmService.cs",
+              "RelativeToolTip": "Services\\AlarmService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:49:41.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IXmlDataService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Interfaces\\IXmlDataService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IXmlDataService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Interfaces\\IXmlDataService.cs",
+              "RelativeToolTip": "Interfaces\\IXmlDataService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:47:18.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\Alarm.cs",
+              "RelativeDocumentMoniker": "Models\\Alarm.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Models\\Alarm.cs",
+              "RelativeToolTip": "Models\\Alarm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:46:59.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAlarmService.cs",
+              "DocumentMoniker": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Interfaces\\IAlarmService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAlarmService.cs",
+              "ToolTip": "C:\\Users\\visal\\OneDrive\\Documents\\SimulateAlarmSystem\\server-app\\SimulatedAlarmSystem.Api\\Interfaces\\IAlarmService.cs",
+              "RelativeToolTip": "Interfaces\\IAlarmService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:46:33.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

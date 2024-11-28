@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+  <User>
+    <Username>john</Username>
+    <Password>password123</Password>
+    <Email>john_doe@example.com</Email>
+  </User>
+  <User>
+    <Username>jane</Username>
+    <Password>securepass987</Password>
+    <Email>jane_smith@example.com</Email>
+  </User>
+  <User>
+    <Username>alex</Username>
+    <Password>alex1234</Password>
+    <Email>alex_jones@example.com</Email>
+  </User>
+  <User>
+    <Username>mary_jones</Username>
+    <Password>marypass567</Password>
+    <Email>mary_jones@example.com</Email>
+  </User>
+  <User>
+    <Username>TtestUser</Username>
+    <Password>stringTest</Password>
+    <Email>testUser@gmail.com</Email>
+  </User>
+</Users>
